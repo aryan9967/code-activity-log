@@ -47,3 +47,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 98b7fbd | Aryan | 2025-08-06 17:46:34 +0530 | chore: added id in the model config
 ==============================
 
+==============================
+Date: 2025-08-07 14:29:34
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 3751682 | Ayush Singh | 2025-07-23 22:08:00 +0530 | feat: implement email notification on hitting the portfolio limit
+==============================
+
