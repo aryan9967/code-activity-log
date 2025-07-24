@@ -61,3 +61,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 9165c0e | Ayush Singh | 2025-07-23 22:27:36 +0530 | fix: typecast result from readClientPortfoliosCountByCreator query to Number
 ==============================
 
+==============================
+Date: 2025-08-07 14:33:42
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 0955d10 | Ayush Singh | 2025-07-24 14:38:50 +0530 | feat: send subcription activation email
+==============================
+
