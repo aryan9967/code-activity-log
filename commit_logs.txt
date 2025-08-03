@@ -1,42 +1,7 @@
 ==============================
-Date: 2025-08-04 00:26:26
+Date: 2025-08-04 00:33:11
 Repo Path: C:/Users/Aryan Maurya/Desktop/projects/git-sync
 Remote URL: https://github.com/aryan9967/git-sync
-Commit: 9f1ae8b | Aryan | 2025-08-04 00:26:26 +0530 | feat: added post commit script for logging
-==============================
-
-==============================
-Date: 2025-08-04 00:30:46
-Repo Path: C:/Users/Aryan Maurya/Desktop/projects/git-sync
-Remote URL: https://github.com/aryan9967/git-sync
-Commit: a694d23 | Aryan | 2025-08-04 00:30:46 +0530 | fix: using /c/Users/Aryan Maurya instead of fixed path
-==============================
-
-==============================
-Date: 2025-08-04 00:30:48
-Repo Path: C:/Users/Aryan Maurya/Desktop/projects/code-activity-log
-Remote URL: https://github.com/aryan9967/code-activity-log
-Commit: 96b7ecd | Aryan | 2025-08-04 00:30:46 +0530 | Log commit from 2025-08-04 00:30:47
-==============================
-
-==============================
-Date: 2025-08-04 00:30:49
-Repo Path: C:/Users/Aryan Maurya/Desktop/projects/code-activity-log
-Remote URL: https://github.com/aryan9967/code-activity-log
-Commit: d4401ca | Aryan | 2025-08-04 00:30:46 +0530 | Log commit from 2025-08-04 00:30:49
-==============================
-
-==============================
-Date: 2025-08-04 00:30:51
-Repo Path: C:/Users/Aryan Maurya/Desktop/projects/code-activity-log
-Remote URL: https://github.com/aryan9967/code-activity-log
-Commit: 27df97f | Aryan | 2025-08-04 00:30:46 +0530 | Log commit from 2025-08-04 00:30:50
-==============================
-
-==============================
-Date: 2025-08-04 00:30:52
-Repo Path: C:/Users/Aryan Maurya/Desktop/projects/code-activity-log
-Remote URL: https://github.com/aryan9967/code-activity-log
-Commit: 13123c5 | Aryan | 2025-08-04 00:30:46 +0530 | Log commit from 2025-08-04 00:30:52
+Commit: 0b22e90 | Aryan | 2025-08-04 00:33:10 +0530 | fix: resetting to absolute path
 ==============================
 
