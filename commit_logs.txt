@@ -5,3 +5,10 @@ Remote URL: https://github.com/aryan9967/git-sync
 Commit: 9f1ae8b | Aryan | 2025-08-04 00:26:26 +0530 | feat: added post commit script for logging
 ==============================
 
+==============================
+Date: 2025-08-04 00:30:46
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/git-sync
+Remote URL: https://github.com/aryan9967/git-sync
+Commit: a694d23 | Aryan | 2025-08-04 00:30:46 +0530 | fix: using /c/Users/Aryan Maurya instead of fixed path
+==============================
+
