@@ -33,3 +33,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: d9e8721 | Aryan | 2025-08-04 18:47:24 +0530 | chore: reset postgres password
 ==============================
 
+==============================
+Date: 2025-08-05 13:45:41
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: dbc36a7 | Aryan | 2025-08-05 13:45:40 +0530 | chore: updated subscription data for app-test user
+==============================
+
