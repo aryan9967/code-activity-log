@@ -40,3 +40,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: dbc36a7 | Aryan | 2025-08-05 13:45:40 +0530 | chore: updated subscription data for app-test user
 ==============================
 
+==============================
+Date: 2025-08-06 17:46:35
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 98b7fbd | Aryan | 2025-08-06 17:46:34 +0530 | chore: added id in the model config
+==============================
+
