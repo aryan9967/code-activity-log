@@ -89,3 +89,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 83db303 | Ayush Singh | 2025-07-24 22:09:43 +0530 | feat: add send subcription cancelation mail method
 ==============================
 
+==============================
+Date: 2025-08-07 14:35:03
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 190f365 | Ayush Singh | 2025-07-24 22:35:04 +0530 | chore: remove debug logging
+==============================
+
