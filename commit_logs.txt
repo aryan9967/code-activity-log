@@ -145,3 +145,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: a185c8a | Ayush Singh | 2025-07-30 20:15:17 +0530 | feat: send subcription upgrade email
 ==============================
 
+==============================
+Date: 2025-08-07 14:37:27
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 591eca9 | Ayush Singh | 2025-08-01 15:27:08 +0530 | feat: send password updated mail inside changePassword as well
+==============================
+
