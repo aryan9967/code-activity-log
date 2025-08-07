@@ -75,3 +75,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: ff0e68b | Ayush Singh | 2025-07-24 15:27:55 +0530 | fix: margin in subcription activation email template
 ==============================
 
+==============================
+Date: 2025-08-07 14:33:52
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 36dd827 | Ayush Singh | 2025-07-24 17:48:16 +0530 | chore: add subscription upgraded email template
+==============================
+
