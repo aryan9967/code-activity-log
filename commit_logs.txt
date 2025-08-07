@@ -180,3 +180,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 5dc31c3 | Aryan | 2025-08-07 17:31:54 +0530 | fix: removed mandatory 3 month gap, set the default end date to 31st july
 ==============================
 
+==============================
+Date: 2025-08-07 23:13:19
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: d8de38e | Aryan | 2025-08-07 23:12:33 +0530 | fix: advisor fee to be between 0 to 10
+==============================
+
