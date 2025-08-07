@@ -208,3 +208,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: a029f6f | Aryan | 2025-08-07 23:49:37 +0530 | fix: enhance renew subscription logic
 ==============================
 
+==============================
+Date: 2025-08-07 23:51:26
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: d4dd8da | Aryan | 2025-08-07 23:51:26 +0530 | fix: modifying query to only send user models
+==============================
+
