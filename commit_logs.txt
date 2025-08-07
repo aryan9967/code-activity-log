@@ -117,3 +117,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: c797f7b | Ayush Singh | 2025-07-25 22:23:59 +0530 | refactor: subscription activation mail
 ==============================
 
+==============================
+Date: 2025-08-07 14:35:25
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 8c2a027 | Ayush Singh | 2025-07-25 22:24:55 +0530 | fix: minor fixes
+==============================
+
