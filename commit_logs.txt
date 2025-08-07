@@ -215,3 +215,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: d4dd8da | Aryan | 2025-08-07 23:51:26 +0530 | fix: modifying query to only send user models
 ==============================
 
+==============================
+Date: 2025-08-08 00:25:58
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 7748e55 | Aryan | 2025-08-08 00:25:57 +0530 | fix: modified query to properly fetch model data
+==============================
+
