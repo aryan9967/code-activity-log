@@ -194,3 +194,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 0f686bb | Aryan | 2025-08-07 23:34:15 +0530 | fix: chart fix in backtest
 ==============================
 
+==============================
+Date: 2025-08-07 23:47:42
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: cadc906 | Aryan | 2025-08-07 23:47:42 +0530 | chore: added percentage sign
+==============================
+
