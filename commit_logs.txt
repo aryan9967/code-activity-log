@@ -159,3 +159,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 3e15448 | Aryan | 2025-08-07 14:58:53 +0530 | Merge branch 'develop' into email-sub-responses
 ==============================
 
+==============================
+Date: 2025-08-07 17:31:54
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: e1ff957 | Aryan | 2025-08-07 17:31:54 +0530 | fix: removed mandatory 3 month gap, set the default end date to 31st july
+==============================
+
