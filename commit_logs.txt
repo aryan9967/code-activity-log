@@ -243,3 +243,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 776b6f9 | Aryan | 2025-08-08 17:58:01 +0530 | fix: displaying user timezone and bactest chart fix
 ==============================
 
+==============================
+Date: 2025-08-08 17:58:42
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 6b40fac | Aryan | 2025-08-08 17:58:01 +0530 | fix: displaying user timezone and bactest chart fix
+==============================
+
