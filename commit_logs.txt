@@ -222,3 +222,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 7748e55 | Aryan | 2025-08-08 00:25:57 +0530 | fix: modified query to properly fetch model data
 ==============================
 
+==============================
+Date: 2025-08-08 14:30:40
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 888bf1e | Aryan | 2025-08-08 14:30:40 +0530 | fix: buy button independent of select plan
+==============================
+
