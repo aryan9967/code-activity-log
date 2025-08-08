@@ -257,3 +257,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 8781403 | Aryan | 2025-08-08 18:48:38 +0530 | fix: responsiveness for new backtest charts
 ==============================
 
+==============================
+Date: 2025-08-08 19:10:05
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: cf7a1de | Aryan | 2025-08-08 19:10:05 +0530 | fix: report title design
+==============================
+
