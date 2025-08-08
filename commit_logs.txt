@@ -229,3 +229,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 888bf1e | Aryan | 2025-08-08 14:30:40 +0530 | fix: buy button independent of select plan
 ==============================
 
+==============================
+Date: 2025-08-08 14:31:35
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 960bd77 | Aryan | 2025-08-08 14:30:40 +0530 | fix: buy button independent of select plan
+==============================
+
