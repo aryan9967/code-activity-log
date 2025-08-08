@@ -278,3 +278,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 8225deb | Aryan | 2025-08-08 19:16:05 +0530 | Merge branch 'main' into new-pdf-temp
 ==============================
 
+==============================
+Date: 2025-08-09 02:20:58
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 41bdf29 | Aryan | 2025-08-09 02:20:58 +0530 | fix: expiry time for resend otp
+==============================
+
