@@ -299,3 +299,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 7f347b3 | Aryan | 2025-08-12 22:05:45 +0530 | fix: bactest chart size fix
 ==============================
 
+==============================
+Date: 2025-08-12 23:15:53
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 830dd6d | Aryan | 2025-08-12 23:15:52 +0530 | fix: backtest report enhancements
+==============================
+
