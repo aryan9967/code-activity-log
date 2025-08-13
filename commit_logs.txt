@@ -341,3 +341,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: d949618 | Aryan | 2025-08-13 20:59:39 +0530 | chore: enhanced error handling for save report
 ==============================
 
+==============================
+Date: 2025-08-13 21:51:10
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 838ec06 | Aryan | 2025-08-13 21:51:09 +0530 | chore: added console.error for save and download errors
+==============================
+
