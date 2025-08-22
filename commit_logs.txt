@@ -383,3 +383,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 8db5f6c | Aryan | 2025-08-20 21:06:00 +0530 | chore: allowing user to access platform until subscription expires on cancellation
 ==============================
 
+==============================
+Date: 2025-08-22 20:27:24
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 365974f | Aryan | 2025-08-22 20:27:24 +0530 | fix: modified get ticker symbol api with limit and offset
+==============================
+
