@@ -411,3 +411,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 763f25f | Aryan | 2025-08-22 20:29:07 +0530 | feat: Integrated ticker symbol api
 ==============================
 
+==============================
+Date: 2025-08-22 20:34:46
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 0c6838f | Aryan | 2025-08-22 20:34:46 +0530 | fix: enabled input of ticker symbol with data fetching on scrollEnd
+==============================
+
