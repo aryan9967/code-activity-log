@@ -425,3 +425,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 5413c8c | Aryan | 2025-08-22 21:17:09 +0530 | fix: Consistent password schema and deactivating past reset password codes
 ==============================
 
+==============================
+Date: 2025-08-22 21:18:24
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 2080324 | Aryan | 2025-08-22 21:18:24 +0530 | fix: consistent password schema
+==============================
+
