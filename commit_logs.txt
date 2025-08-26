@@ -439,3 +439,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: daaf069 | Aryan | 2025-08-26 15:42:42 +0530 | fix: subscription fix and sending email on last portfolio creation
 ==============================
 
+==============================
+Date: 2025-08-26 15:44:10
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 3be8e36 | Aryan | 2025-08-26 15:44:10 +0530 | fix: subscription fix and sending email on last portfolio creation
+==============================
+
