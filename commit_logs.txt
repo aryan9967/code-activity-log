@@ -432,3 +432,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 2080324 | Aryan | 2025-08-22 21:18:24 +0530 | fix: consistent password schema
 ==============================
 
+==============================
+Date: 2025-08-26 15:42:43
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: daaf069 | Aryan | 2025-08-26 15:42:42 +0530 | fix: subscription fix and sending email on last portfolio creation
+==============================
+
