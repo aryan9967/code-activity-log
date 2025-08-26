@@ -502,3 +502,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 3036e35 | Aryan | 2025-08-29 15:30:08 +0530 | fix: initial loading of field values
 ==============================
 
+==============================
+Date: 2025-08-29 15:38:11
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: cc2a75f | Aryan | 2025-08-26 23:07:08 +0530 | fix: handling values with default 0
+==============================
+
