@@ -453,3 +453,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 1617964 | Aryan | 2025-08-26 15:46:26 +0530 | chore: notification on cancel subscription and subscription status display
 ==============================
 
+==============================
+Date: 2025-08-26 23:07:08
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 681b776 | Aryan | 2025-08-26 23:07:08 +0530 | fix: handling values with default 0
+==============================
+
