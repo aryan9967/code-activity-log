@@ -467,3 +467,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: bcb6a76 | Aryan | 2025-08-26 23:07:08 +0530 | fix: handling values with default 0
 ==============================
 
+==============================
+Date: 2025-08-28 21:57:19
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 2089dac | Aryan | 2025-08-28 21:57:19 +0530 | fix: indicator fine tuning
+==============================
+
