@@ -481,3 +481,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 1c400e9 | Aryan | 2025-08-28 22:04:39 +0530 | chore: indicator fine tuning
 ==============================
 
+==============================
+Date: 2025-08-29 15:23:36
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: cbd59d1 | Aryan | 2025-08-29 15:23:36 +0530 | fix: model validation logic and return on asset indicator
+==============================
+
