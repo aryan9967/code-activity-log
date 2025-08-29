@@ -523,3 +523,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 9118f8b | Aryan | 2025-08-29 15:30:08 +0530 | fix: initial loading of field values
 ==============================
 
+==============================
+Date: 2025-08-29 19:17:39
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: ec2559f | Aryan | 2025-08-29 19:17:39 +0530 | fix: freeTrialModal showed only once
+==============================
+
