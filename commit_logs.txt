@@ -530,3 +530,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: ec2559f | Aryan | 2025-08-29 19:17:39 +0530 | fix: freeTrialModal showed only once
 ==============================
 
+==============================
+Date: 2025-08-29 19:32:25
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: e2c09ff | Aryan | 2025-08-29 19:32:25 +0530 | fix: subscription fix
+==============================
+
