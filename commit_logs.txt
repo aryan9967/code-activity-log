@@ -495,3 +495,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: c96dc0c | Aryan | 2025-08-29 15:23:36 +0530 | fix: model validation logic and return on asset indicator
 ==============================
 
+==============================
+Date: 2025-08-29 15:30:08
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 3036e35 | Aryan | 2025-08-29 15:30:08 +0530 | fix: initial loading of field values
+==============================
+
