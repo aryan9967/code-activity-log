@@ -537,3 +537,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: e2c09ff | Aryan | 2025-08-29 19:32:25 +0530 | fix: subscription fix
 ==============================
 
+==============================
+Date: 2025-09-01 16:58:28
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: d649886 | Aryan | 2025-09-01 16:58:28 +0530 | chore: enhanced initial model selection and default fields
+==============================
+
