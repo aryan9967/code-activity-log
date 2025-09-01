@@ -558,3 +558,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 015359a | Aryan | 2025-09-01 21:39:24 +0530 | fix: proper display of free trial end modal
 ==============================
 
+==============================
+Date: 2025-09-01 21:41:43
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 2e9835b | Aryan | 2025-09-01 21:41:43 +0530 | fix: fixing condition for trialEndingSoon flag
+==============================
+
