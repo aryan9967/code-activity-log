@@ -551,3 +551,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 71ec151 | Aryan | 2025-09-01 17:01:12 +0530 | chore: changed value from billions to millions and added default values for date
 ==============================
 
+==============================
+Date: 2025-09-01 21:39:24
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 015359a | Aryan | 2025-09-01 21:39:24 +0530 | fix: proper display of free trial end modal
+==============================
+
