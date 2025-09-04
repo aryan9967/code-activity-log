@@ -628,3 +628,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 97af8b9 | Aryan | 2025-09-04 19:27:26 +0530 | fix: genrating report from cached values instead of caching the entire report
 ==============================
 
+==============================
+Date: 2025-09-04 19:39:06
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 2298f58 | Aryan | 2025-09-04 19:27:26 +0530 | fix: genrating report from cached values instead of caching the entire report
+==============================
+
