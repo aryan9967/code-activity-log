@@ -614,3 +614,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: bce1b5e | Aryan | 2025-09-04 17:35:36 +0530 | fix: code refractor
 ==============================
 
+==============================
+Date: 2025-09-04 18:35:26
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: a3d94dc | Aryan | 2025-09-04 18:35:25 +0530 | fix: Backtest name and display of initial investment
+==============================
+
