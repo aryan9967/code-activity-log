@@ -607,3 +607,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 0cc56db | Aryan | 2025-09-04 01:22:23 +0530 | feat: added ticker search functionality
 ==============================
 
+==============================
+Date: 2025-09-04 17:35:37
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: bce1b5e | Aryan | 2025-09-04 17:35:36 +0530 | fix: code refractor
+==============================
+
