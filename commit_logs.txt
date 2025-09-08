@@ -642,3 +642,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: ce52028 | Aryan | 2025-09-08 16:15:37 +0530 | fix: report-caching by encoding byte data to base64 string before storing
 ==============================
 
+==============================
+Date: 2025-09-08 20:14:46
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 0c0a066 | Aryan | 2025-09-08 20:14:46 +0530 | feat: delete model api
+==============================
+
