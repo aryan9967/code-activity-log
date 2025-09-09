@@ -670,3 +670,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 750f5bd | Aryan | 2025-09-09 20:51:07 +0530 | feat: delete report workflow
 ==============================
 
+==============================
+Date: 2025-09-09 20:52:34
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 3cfb016 | Aryan | 2025-09-09 20:52:33 +0530 | feat: delete report api fix
+==============================
+
