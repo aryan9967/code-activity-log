@@ -677,3 +677,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 3cfb016 | Aryan | 2025-09-09 20:52:33 +0530 | feat: delete report api fix
 ==============================
 
+==============================
+Date: 2025-09-15 17:59:39
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 467b8fa | Aryan | 2025-09-15 17:59:39 +0530 | chore: added error messages for max Allocation and max percentage of model
+==============================
+
