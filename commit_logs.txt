@@ -789,3 +789,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 370a65a | Aryan | 2025-09-25 16:53:25 +0530 | chore: changing email
 ==============================
 
+==============================
+Date: 2025-09-25 19:32:50
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 92d58f4 | Aryan | 2025-09-16 22:02:12 +0530 | feat: added logic for model comparision
+==============================
+
