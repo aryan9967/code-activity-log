@@ -698,3 +698,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 64afb31 | Aryan | 2025-09-16 22:07:31 +0530 | Merge branch 'main' of https://dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
 ==============================
 
+==============================
+Date: 2025-09-16 22:07:56
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 12f3f61 | Aryan | 2025-09-16 22:02:12 +0530 | feat: added logic for model comparision
+==============================
+
