@@ -747,3 +747,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 6fb0cb4 | Aryan | 2025-09-18 21:05:00 +0530 | feat: fetching latest report for compare to portfolio
 ==============================
 
+==============================
+Date: 2025-09-18 21:07:12
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: e3e0e74 | Aryan | 2025-09-18 21:07:12 +0530 | fix: passing portfolio number for compare to portfolio
+==============================
+
