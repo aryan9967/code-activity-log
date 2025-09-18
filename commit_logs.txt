@@ -740,3 +740,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 1cec2b6 | Aryan | 2025-09-18 21:01:58 +0530 | feat: added compare to portfolio logic
 ==============================
 
+==============================
+Date: 2025-09-18 21:05:00
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-server
+Commit: 6fb0cb4 | Aryan | 2025-09-18 21:05:00 +0530 | feat: fetching latest report for compare to portfolio
+==============================
+
