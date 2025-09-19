@@ -754,3 +754,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: e3e0e74 | Aryan | 2025-09-18 21:07:12 +0530 | fix: passing portfolio number for compare to portfolio
 ==============================
 
+==============================
+Date: 2025-09-19 22:35:55
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 1c19fc3 | Aryan | 2025-09-19 22:35:55 +0530 | feat: compare to ticker logic
+==============================
+
