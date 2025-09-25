@@ -782,3 +782,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 7f29ef8 | Aryan | 2025-09-25 16:27:03 +0530 | chore: increased report modal size
 ==============================
 
+==============================
+Date: 2025-09-25 16:53:25
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-admin-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-admin-server
+Commit: 370a65a | Aryan | 2025-09-25 16:53:25 +0530 | chore: changing email
+==============================
+
