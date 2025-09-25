@@ -775,3 +775,10 @@ Remote URL: https://github.com/WannabeDeva/rgit-synergy
 Commit: 00adc67 | Aryan | 2025-09-24 13:41:40 +0530 | chore: Rosp MPR changes
 ==============================
 
+==============================
+Date: 2025-09-25 16:27:03
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-client
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-client
+Commit: 7f29ef8 | Aryan | 2025-09-25 16:27:03 +0530 | chore: increased report modal size
+==============================
+
