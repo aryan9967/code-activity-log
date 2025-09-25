@@ -817,3 +817,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 90c0d11 | Aryan | 2025-09-19 22:35:55 +0530 | feat: compare to ticker logic
 ==============================
 
+==============================
+Date: 2025-09-25 20:06:52
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 162a417 | Aryan | 2025-09-25 20:06:52 +0530 | chore: updated comparision logic as per the new backtest logic
+==============================
+
