@@ -866,3 +866,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: eee1d02 | Aryan | 2025-09-25 20:06:52 +0530 | chore: updated comparision logic as per the new backtest logic
 ==============================
 
+==============================
+Date: 2025-09-26 23:21:27
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Devsena_codestorm
+Remote URL: https://github.com/DevanshuKadam/Devsena_codestorm
+Commit: 17b2dc6 | Aryan | 2025-09-26 23:21:27 +0530 | feat:backend
+==============================
+
