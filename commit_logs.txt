@@ -1006,3 +1006,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: 53490f7 | Aryan | 2025-09-29 14:12:34 +0530 | fix: fixed cookie expiry timer
 ==============================
 
+==============================
+Date: 2025-09-29 20:24:05
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 8169e38 | Aryan | 2025-09-29 20:24:05 +0530 | feat: advisor fee calculation
+==============================
+
