@@ -999,3 +999,10 @@ Remote URL: https://github.com/DevanshuKadam/Devsena_codestorm
 Commit: cc77402 | Aryan | 2025-09-27 10:17:17 +0530 | feat:scheduler
 ==============================
 
+==============================
+Date: 2025-09-29 14:12:34
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/warrior-admin-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/warrior-admin-server
+Commit: 53490f7 | Aryan | 2025-09-29 14:12:34 +0530 | fix: fixed cookie expiry timer
+==============================
+
