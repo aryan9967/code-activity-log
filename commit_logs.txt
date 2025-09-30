@@ -1020,3 +1020,10 @@ Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20
 Commit: f30a0a6 | Aryan | 2025-09-30 13:42:32 +0530 | fix: advisor fee logic
 ==============================
 
+==============================
+Date: 2025-09-30 15:35:50
+Repo Path: C:/Users/Aryan Maurya/Desktop/projects/Betatest Internship/kwv-model-server
+Remote URL: https://betatestsolutions@dev.azure.com/betatestsolutions/Warrior%20Portfolio/_git/kwv-model-server
+Commit: 46a2afc | Aryan | 2025-09-30 15:35:49 +0530 | feat: advisor fee table in report
+==============================
+
