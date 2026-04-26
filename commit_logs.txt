@@ -1083,3 +1083,10 @@ Remote URL: https://github.com/aryan9967/rosp-mpr.git
 Commit: 9399b2b | Aryan | 2025-10-16 14:32:19 +0530 | feat: attaching lisence to the project
 ==============================
 
+==============================
+Date: 2026-04-26 13:38:56
+Repo Path: C:/Users/Aryan Maurya/Desktop/major_project
+Remote URL: 
+Commit: 0ed1754 | Aryan | 2026-04-26 13:38:56 +0530 | feat: project initialisation
+==============================
+
